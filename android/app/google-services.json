@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559611391770",
+    "project_id": "wage-fb826",
+    "storage_bucket": "wage-fb826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559611391770:android:565651f7f65991e38a46a3",
+        "android_client_info": {
+          "package_name": "com.khurpechi.wage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjcZcTGfjkWaZlir-qb67Ucis4jA-Av8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
